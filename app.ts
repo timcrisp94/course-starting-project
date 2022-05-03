@@ -1,7 +1,4 @@
-function add(n1, n2) {
-  return n1 + n2;
+const person = {
+  name: 'Tim',
+  age: 35
 }
-
-const number1 = 5;
-const number2 = 2.8;
-
